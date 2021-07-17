@@ -1,0 +1,30 @@
+{
+    "google": {
+	"name": "Google",
+	"queryurl": "https://www.google.com/search?q=%QUERY%"
+    },
+    "bing": {
+	"name": "Bing",
+	"queryurl": "https://www.bing.com/search?q=%QUERY%"
+    },
+    "duckduckgo": {
+	"name": "DuckDuckGo",
+	"queryurl": "https://duckduckgo.com/?q=%QUERY%"
+    },
+    "amazon": {
+	"name": "Amazon.com",
+	"queryurl": "https://www.amazon.com/s?k=%QUERY%"
+    },
+    "github": {
+	"name": "GitHub",
+	"queryurl": "https://github.com/search?q=%QUERY%"
+    },
+    "stackoverflow": {
+	"name": "StackOverflow",
+	"queryurl": "https://stackoverflow.com/search?q=%QUERY%"
+    },
+    "news": {
+	"name": "Google News",
+	"queryurl": "https://news.google.com/search?q=%QUERY%"
+    }
+}
