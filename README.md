@@ -2,7 +2,7 @@
 🔍 The bot for people that are too lazy to search something.
 
 Everyone knows at least one person who usually asks things that he can search on Google: with this bot, you can ditch him in seconds.
-This bot makes you able to make a search on some search engines and it makes fun of the questioning person. 
+This bot makes you able to do a search on some search engines and it makes fun of the questioning person. 
 
 ### Example
 
